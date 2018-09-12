@@ -14,3 +14,6 @@ API collectio link -- https://www.programmableweb.com/
 udemy -- www.luv2code.com
 
 spring referal github link -- > https://github.com/spring-projects 
+
+
+sprinboot annoatation --> https://www.baeldung.com/jackson-advanced-annotations
