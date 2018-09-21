@@ -24,6 +24,14 @@ sprinboot annoatation --> https://www.baeldung.com/jackson-advanced-annotations
 
 vue github --> scotch
 
+vue comeponent referance -->https://vuejs.org/v2/guide/components.html
+
+
+vue compomnent registration  -->https://vuejs.org/v2/guide/components-registration.html
+
+
+
+
 color/css/js/html -- referance --> codingheros.io
 
 
