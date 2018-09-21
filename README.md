@@ -11,6 +11,9 @@ spring framework -- https://docs.spring.io/spring/docs/current/spring-framework-
 API collectio link -- https://www.programmableweb.com/
 
 
+avvanced jackson annotatioins --> https://www.baeldung.com/jackson-advanced-annotations
+
+
 udemy -- www.luv2code.com
 
 spring referal github link -- > https://github.com/spring-projects 
