@@ -29,8 +29,11 @@ vue comeponent referance -->https://vuejs.org/v2/guide/components.html
 
 vue compomnent registration  -->https://vuejs.org/v2/guide/components-registration.html
 
+Official Docs - Props:--> http://vuejs.org/guide/components.html#Props
 
+Official Docs - Custom Events:--> http://vuejs.org/guide/components.html#Custom-Events
 
+Official Docs - Non-Parent-Child Communication: http://vuejs.org/guide/components.html#Non-Parent-Child-Communication
 
 color/css/js/html -- referance --> codingheros.io
 
