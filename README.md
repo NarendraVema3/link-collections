@@ -17,3 +17,17 @@ spring referal github link -- > https://github.com/spring-projects
 
 
 sprinboot annoatation --> https://www.baeldung.com/jackson-advanced-annotations
+
+
+vue github --> scotch
+
+color/css/js/html -- referance --> codingheros.io
+
+
+
+
+
+
+
+
+
