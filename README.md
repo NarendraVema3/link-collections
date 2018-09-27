@@ -39,7 +39,7 @@ color/css/js/html -- referance --> codingheros.io
 
 vue github collection --> https://github.com/pagekit/vue-resource/blob/develop/docs/resource.md
 
-
+circle progress -- >  https://bootsnipp.com/snippets/featured/circle-progress-bar
 
 
 
