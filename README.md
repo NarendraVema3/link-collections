@@ -41,6 +41,16 @@ vue github collection --> https://github.com/pagekit/vue-resource/blob/develop/d
 
 circle progress -- >  https://bootsnipp.com/snippets/featured/circle-progress-bar
 
+vue-resource on Github: https://github.com/yyx990803/vue-resource
+
+Some Code Recipes for vue-resource: https://github.com/yyx990803/vue-resource/blob/master/docs/recipes.md
+
+Template URLs: https://medialize.github.io/URI.js/uri-template.html
+
+Requests and Responses (incl. Different File Formats): https://github.com/yyx990803/vue-resource/blob/master/docs/http.md
+
+
+
 
 
 
