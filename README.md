@@ -37,6 +37,11 @@ Official Docs - Non-Parent-Child Communication: http://vuejs.org/guide/component
 
 color/css/js/html -- referance --> codingheros.io
 
+vue github collection --> https://github.com/pagekit/vue-resource/blob/develop/docs/resource.md
+
+
+
+
 
 
 
