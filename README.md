@@ -54,7 +54,10 @@ Requests and Responses (incl. Different File Formats): https://github.com/yyx990
 
 jquery link ---> https://jqueryui.com/resizable/
 
+dash-board  templtes -->  https://colorlib.com/wp/free-html5-admin-dashboard-templates/
 
+
+dashboard templtes -->https://freehtml5.co/blog/48-free-html5-responsive-admin-dashboard-templates-2017/
 
 
 
