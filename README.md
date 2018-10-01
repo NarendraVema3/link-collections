@@ -52,6 +52,10 @@ Requests and Responses (incl. Different File Formats): https://github.com/yyx990
 
 
 
+jquery link ---> https://jqueryui.com/resizable/
+
+
+
 
 
 
