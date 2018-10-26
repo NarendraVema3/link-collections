@@ -71,7 +71,6 @@ hover menu --> https://codepen.io/JFarrow/pen/fFrpg
 
 templet -->https://demos.creative-tim.com/material-dashboard-dark/examples/user.html
 
-
 templte -- >https://lstore.graphics/.controlpanel/
 
-
+flex layout --> https://alligator.io/angular/flex-layout/
