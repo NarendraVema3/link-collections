@@ -75,6 +75,6 @@ templte -- >https://lstore.graphics/.controlpanel/
 
 flex layout --> https://alligator.io/angular/flex-layout/
 
-CSS Freamwork --> https://semantic-ui.com/modules/dropdown.html
-
-
+CSS Freamwork -|-> https://semantic-ui.com/modules/dropdown.html
+               |     
+               |-> https://getuikit.com/docs/drop
