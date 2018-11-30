@@ -86,3 +86,6 @@ CSS Freamwork -|-> https://semantic-ui.com/modules/dropdown.html
  convertion  -->   https://www.codeproject.com/              
                
  git guide   --> https://www.dataschool.io/git-quick-reference-for-beginners/ 
+ 
+ CDK templets --> https://github.com/codetok/cdk-admin
+ 
