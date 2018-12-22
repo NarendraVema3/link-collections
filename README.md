@@ -91,7 +91,7 @@ CSS Freamwork -|-> https://semantic-ui.com/modules/dropdown.html
  
  parallax ---> https://mdbootstrap.com/previews/docs/latest/html/parallax/index.html 
 
-
+webSite For parallex -->  https://mdbootstrap.com/docs/angular/css/parallax/
 
 
 
