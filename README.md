@@ -94,5 +94,7 @@ CSS Freamwork -|-> https://semantic-ui.com/modules/dropdown.html
  webSite For parallex -->  https://mdbootstrap.com/docs/angular/css/parallax/
   
  Vue parallex --> https://aminerman.com/playground/vuejs-mouse-parallax/ 
+ 
+ Vue parallex --> https://vuejsexamples.com/an-easy-to-use-mouse-parallax-component-with-vue-js/ 
 
 
