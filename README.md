@@ -89,3 +89,9 @@ CSS Freamwork -|-> https://semantic-ui.com/modules/dropdown.html
  
  CDK templets --> https://github.com/codetok/cdk-admin
  
+ parallax ---> https://mdbootstrap.com/previews/docs/latest/html/parallax/index.html 
+
+
+
+
+
