@@ -101,10 +101,11 @@ CSS Freamwork -|-> https://semantic-ui.com/modules/dropdown.html
  
  Vue swipeout   --> https://github.com/davidgaroro/vuetify-swipeout 
 
-
+Vue Chart --> https://madewithvuejs.com/vuetify-chat
+ 
   please check below of this link --> https://vuetifyjs.com/en/
 
-
+  
 
 
 
