@@ -109,7 +109,7 @@ Vue Chart --> https://madewithvuejs.com/vuetify-chat
 
 
 
-
+vue touch  ----> https://github.com/vuejs/vue-touch/tree/next
 
 
 
