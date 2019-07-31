@@ -111,7 +111,7 @@ Vue Chart --> https://madewithvuejs.com/vuetify-chat
 
 vue touch  ----> https://github.com/vuejs/vue-touch/tree/next
 
-
+vue carousel -----> https://www.npmjs.com/package/vue-carousel-3d
 
 
 
